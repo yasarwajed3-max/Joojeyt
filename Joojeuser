@@ -16,5 +16,11 @@
         "key": "ncysdb2YSC",
         "expirydate": "27-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1b471f4a180046d8",
+        "key": "6xajXf28Eq",
+        "expirydate": "27-09-7412",
+        "Allowoffline": false
     }
 ]
