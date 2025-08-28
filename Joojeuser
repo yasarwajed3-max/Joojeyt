@@ -118,5 +118,11 @@
         "key": "D8thQCmUvV",
         "expirydate": "27-08-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ab32372604fbf010",
+        "key": "vMuf8QOl4C",
+        "expirydate": "28-08-2027",
+        "Allowoffline": false
     }
 ]
