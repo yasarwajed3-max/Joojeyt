@@ -298,5 +298,11 @@
         "key": "ipfmhgOCAu",
         "expirydate": "29-08-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "273030a421692a09",
+        "key": "YgM4edDT85",
+        "expirydate": "29-08-2028",
+        "Allowoffline": false
     }
 ]
