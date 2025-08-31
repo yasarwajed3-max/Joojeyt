@@ -358,5 +358,11 @@
         "key": "49AMO1kthu",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "221327c3c7d00fc6",
+        "key": "jwXdpGiq9r",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
