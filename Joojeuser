@@ -340,5 +340,11 @@
         "key": "52WtPrEpfR",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a7573b2c1466da38",
+        "key": "yHumDaVbLo",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
