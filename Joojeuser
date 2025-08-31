@@ -370,5 +370,11 @@
         "key": "KtxeVPS5Il",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7094f253c527dcf1",
+        "key": "MvtX7lurbk",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
