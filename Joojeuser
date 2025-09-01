@@ -388,5 +388,11 @@
         "key": "IANhzLT21i",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "430c2c6c82a40c10",
+        "key": "8ukDp24RfO",
+        "expirydate": "01-03-2026",
+        "Allowoffline": false
     }
 ]
