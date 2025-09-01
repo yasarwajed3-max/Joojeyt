@@ -376,5 +376,11 @@
         "key": "MvtX7lurbk",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f9c15e32760438c2",
+        "key": "xm3RzpdZ97",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
