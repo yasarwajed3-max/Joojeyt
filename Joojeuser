@@ -556,5 +556,11 @@
         "key": "TXS8s52iV0",
         "expirydate": "09-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "40a97a7d32e4a22a",
+        "key": "9HEGzIfCmk",
+        "expirydate": "10-12-2025",
+        "Allowoffline": false
     }
 ]
