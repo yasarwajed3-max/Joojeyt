@@ -664,5 +664,11 @@
         "key": "MA2ZfprESD",
         "expirydate": "16-09-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eb0627008ee99535",
+        "key": "Gs43FwyjOp",
+        "expirydate": "17-09-2028",
+        "Allowoffline": false
     }
 ]
