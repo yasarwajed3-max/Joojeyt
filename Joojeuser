@@ -790,5 +790,11 @@
         "key": "fPusHtc239",
         "expirydate": "23-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3326d4affe25c5d1",
+        "key": "eDSu0A5hrq",
+        "expirydate": "24-03-2026",
+        "Allowoffline": false
     }
 ]
