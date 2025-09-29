@@ -820,5 +820,11 @@
         "key": "tIfzSTd6As",
         "expirydate": "28-09-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a9c98990f722d9b7",
+        "key": "kJvfsYro8A",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
     }
 ]
