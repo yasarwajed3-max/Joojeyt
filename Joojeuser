@@ -832,5 +832,11 @@
         "key": "vKPkcnM0No",
         "expirydate": "02-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "38c33430520b9383",
+        "key": "U8MGgvp5qJ",
+        "expirydate": "02-10-2028",
+        "Allowoffline": false
     }
 ]
