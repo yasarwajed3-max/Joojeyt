@@ -862,5 +862,11 @@
         "key": "PLC8ZafQjz",
         "expirydate": "04-10-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "201a80d493ec290b",
+        "key": "lwrZ0n53C1",
+        "expirydate": "05-10-2028",
+        "Allowoffline": false
     }
 ]
