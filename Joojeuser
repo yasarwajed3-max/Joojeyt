@@ -898,5 +898,11 @@
         "key": "apdKSCFlnQ",
         "expirydate": "08-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ca67118df9992028",
+        "key": "s6dLR5IpEf",
+        "expirydate": "08-01-2026",
+        "Allowoffline": false
     }
 ]
