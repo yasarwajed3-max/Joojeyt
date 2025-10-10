@@ -916,5 +916,11 @@
         "key": "VCw9mHPMI1",
         "expirydate": "10-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4c1333a0d021dead",
+        "key": "Bk1VetKvzi",
+        "expirydate": "10-10-2028",
+        "Allowoffline": false
     }
 ]
