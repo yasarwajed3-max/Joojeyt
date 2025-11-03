@@ -1300,5 +1300,11 @@
         "key": "SkoqpecKzm",
         "expirydate": "03-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8d666bf88abde14d",
+        "key": "dS2IovuHMc",
+        "expirydate": "03-12-2025",
+        "Allowoffline": false
     }
 ]
