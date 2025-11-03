@@ -1234,5 +1234,11 @@
         "key": "vArhObotiu",
         "expirydate": "03-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e2b9c74d453ff2c9",
+        "key": "JUsZhKYXOE",
+        "expirydate": "03-12-2025",
+        "Allowoffline": false
     }
 ]
