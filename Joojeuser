@@ -1336,5 +1336,11 @@
         "key": "18bOShcAR0",
         "expirydate": "03-11-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "838656207169d860",
+        "key": "MpPSgyFo5h",
+        "expirydate": "03-12-2025",
+        "Allowoffline": false
     }
 ]
