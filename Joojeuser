@@ -1384,5 +1384,11 @@
         "key": "isEvhnk6OK",
         "expirydate": "04-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1589d1eae2e7fa3d",
+        "key": "XPmh0Hcnv4",
+        "expirydate": "04-11-2028",
+        "Allowoffline": false
     }
 ]
