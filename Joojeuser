@@ -1402,11 +1402,5 @@
         "key": "QJAu0eCbwU",
         "expirydate": "04-01-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "8f46f2cfaab14fbd",
-        "key": "2B0n38uwAf",
-        "expirydate": "04-02-2026",
-        "Allowoffline": false
     }
 ]
