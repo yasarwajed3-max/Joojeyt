@@ -1426,5 +1426,11 @@
         "key": "Vh371UCRu8",
         "expirydate": "07-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1d984215dac7bf9f",
+        "key": "e8KSmAzTLD",
+        "expirydate": "07-12-2025",
+        "Allowoffline": false
     }
 ]
