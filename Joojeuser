@@ -1432,5 +1432,11 @@
         "key": "e8KSmAzTLD",
         "expirydate": "07-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ceea2a2c31d5381a",
+        "key": "DckClugTJK",
+        "expirydate": "07-11-2028",
+        "Allowoffline": false
     }
 ]
