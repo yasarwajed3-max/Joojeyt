@@ -1438,5 +1438,11 @@
         "key": "DckClugTJK",
         "expirydate": "07-11-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dd887917971e2b9a",
+        "key": "10j9rVaD3W",
+        "expirydate": "08-11-2028",
+        "Allowoffline": false
     }
 ]
