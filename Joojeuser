@@ -1498,5 +1498,11 @@
         "key": "NIFsApveJE",
         "expirydate": "21-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "519a56d7caa6860d",
+        "key": "hczAbCfmRP",
+        "expirydate": "21-02-2026",
+        "Allowoffline": false
     }
 ]
