@@ -1558,11 +1558,5 @@
         "key": "ib4w2TB1sU",
         "expirydate": "01-01-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "2b87c868d7108b4f",
-        "key": "ove5zamd2M",
-        "expirydate": "01-05-2033",
-        "Allowoffline": false
     }
 ]
