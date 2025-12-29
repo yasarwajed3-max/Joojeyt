@@ -1636,5 +1636,11 @@
         "key": "n5go16MAhf",
         "expirydate": "24-05-2056",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1b471f4a180046d8",
+        "key": "xoXl3CEq48",
+        "expirydate": "29-05-2056",
+        "Allowoffline": false
     }
 ]
