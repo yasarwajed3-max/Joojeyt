@@ -1,20 +1,29 @@
 [
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "778776b0499fb498",
-        "key": "of",
-        "expirydate": "15-06-2029",
-        "Allowoffline": true
-    }
+  {
+    "device_id": "device123",
+    "key": "key12345",
+    "expirydate": "31-12-2025",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "device456",
+    "key": "key67890",
+    "expirydate": "15-06-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "778776b0499fb498",
+    "key": "of",
+    "expirydate": "15-06-2029",
+    "Allowoffline": true
+  },
+  {
+    "license": "RLKP-LBLN-6BS8-EMGQ",
+    "username": "yas",
+    "password": "12",
+    "device_id": "",
+    "register_date": "01-07-2026",
+    "expiry_date": "24-02-2028",
+    "active": true
+  }
 ]
