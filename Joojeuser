@@ -17,13 +17,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": true
   },
-  {
-    "license": "RLKP-LBLN-6BS8-EMGQ",
-    "username": "yas",
-    "password": "12",
-    "device_id": "",
-    "register_date": "01-07-2026",
-    "expiry_date": "24-02-2028",
-    "active": true
+{
+    "device_id": "37134f1c26420897",
+    "key": "x1",
+    "expirydate": "15-06-2029",
+    "Allowoffline": true
   }
 ]
