@@ -4,5 +4,11 @@
     "key": "j",
     "expirydate": "20-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "262db94a08fa5a81",
+    "key": "KONI",
+    "expirydate": "20-08-2026",
+    "Allowoffline": true
   }
 ]
