@@ -28,5 +28,11 @@
     "key": "NO SCOPE",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "63ef9fa374ae0993",
+    "key": "Matin",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
