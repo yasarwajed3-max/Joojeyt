@@ -46,5 +46,11 @@
     "key": "09962548949",
     "expirydate": "21-08-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "49c593d83281ce1f",
+    "key": "MMD",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
