@@ -196,5 +196,11 @@
     "key": "pppp",
     "expirydate": "22-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4edffb76c1a88c37\nبفرما",
+    "key": "ZZ",
+    "expirydate": "23-07-2027",
+    "Allowoffline": true
   }
 ]
