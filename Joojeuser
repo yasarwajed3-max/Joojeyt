@@ -22,5 +22,11 @@
     "key": "MAGHZ",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3fda0e60a8b6ede4",
+    "key": "NO SCOPE",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
