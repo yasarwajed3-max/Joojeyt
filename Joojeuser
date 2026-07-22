@@ -64,5 +64,11 @@
     "key": "MMDREZA",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "799308d4d190c118",
+    "key": "-AMIR",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
