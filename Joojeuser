@@ -10,5 +10,11 @@
     "key": "MASS",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "59efa247b97dfe38",
+    "key": "ABOOTORAB",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
