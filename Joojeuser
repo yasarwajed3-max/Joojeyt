@@ -118,5 +118,11 @@
     "key": "K",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "262db94a08fa5a81",
+    "key": "KON",
+    "expirydate": "21-08-2026",
+    "Allowoffline": true
   }
 ]
