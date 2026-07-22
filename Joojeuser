@@ -142,5 +142,11 @@
     "key": "pp",
     "expirydate": "22-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b2fd5d52364d9d14",
+    "key": "sos",
+    "expirydate": "22-07-2027",
+    "Allowoffline": true
   }
 ]
