@@ -148,5 +148,11 @@
     "key": "sos",
     "expirydate": "22-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6f3340efae9bded7",
+    "key": "pey",
+    "expirydate": "22-07-2027",
+    "Allowoffline": true
   }
 ]
