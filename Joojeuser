@@ -94,5 +94,11 @@
     "key": "MAHMUD",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "661281818e6df1e7",
+    "key": "RAD1N",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
