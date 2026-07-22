@@ -4,5 +4,11 @@
     "key": "ofbar",
     "expirydate": "22-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e8f623d5de71774c",
+    "key": "MASS",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
