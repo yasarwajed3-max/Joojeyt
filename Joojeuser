@@ -16,5 +16,11 @@
     "key": "ABOOTORAB",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "315e5962889df645",
+    "key": "MAGHZ",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
