@@ -106,5 +106,11 @@
     "key": "RAYAN",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "213597353d4c5433",
+    "key": "H",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
