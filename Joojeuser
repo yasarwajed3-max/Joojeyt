@@ -58,5 +58,11 @@
     "key": "j",
     "expirydate": "22-07-2033",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a2a17910bc9ce660",
+    "key": "MMDREZA",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
