@@ -112,5 +112,11 @@
     "key": "H",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1cdefde5cd839aa0",
+    "key": "K",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
