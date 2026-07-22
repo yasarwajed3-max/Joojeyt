@@ -1,11 +1,5 @@
 [
   {
-    "device_id": "37134f1c26420897",
-    "key": "J",
-    "expirydate": "22-07-2027",
-    "Allowoffline": true
-  },
-  {
     "device_id": "d3f697b62245ca89",
     "key": "ofbar",
     "expirydate": "22-07-2027",
