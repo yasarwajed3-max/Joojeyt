@@ -40,5 +40,11 @@
     "key": "A=",
     "expirydate": "21-08-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "273030a421692a09",
+    "key": "MMD",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
