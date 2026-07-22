@@ -76,5 +76,11 @@
     "key": "FARDIN",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3b2a4cbe04d26a2a",
+    "key": "MESTER",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
