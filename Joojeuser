@@ -82,5 +82,11 @@
     "key": "MESTER",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "872a9992b4108d20",
+    "key": "sadra505",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
