@@ -130,5 +130,11 @@
     "key": "T",
     "expirydate": "21-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "325a7461e8a61e94",
+    "key": "ZP",
+    "expirydate": "22-07-2027",
+    "Allowoffline": true
   }
 ]
