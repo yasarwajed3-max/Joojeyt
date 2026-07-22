@@ -172,5 +172,11 @@
     "key": "eh",
     "expirydate": "22-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "eae004fcb4974911",
+    "key": "lo",
+    "expirydate": "22-07-2027",
+    "Allowoffline": true
   }
 ]
