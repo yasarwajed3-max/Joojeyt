@@ -124,5 +124,11 @@
     "key": "KON",
     "expirydate": "21-08-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5f39e4f42af4effb",
+    "key": "T",
+    "expirydate": "21-09-2026",
+    "Allowoffline": true
   }
 ]
