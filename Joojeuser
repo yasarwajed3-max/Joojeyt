@@ -70,5 +70,11 @@
     "key": "-AMIR",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "eff968dcb143dda0",
+    "key": "FARDIN",
+    "expirydate": "22-07-2030",
+    "Allowoffline": true
   }
 ]
