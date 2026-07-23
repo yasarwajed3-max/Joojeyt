@@ -226,5 +226,11 @@
     "key": "MM",
     "expirydate": "23-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6feb1d4439482cd1",
+    "key": "EE",
+    "expirydate": "23-07-2027",
+    "Allowoffline": true
   }
 ]
