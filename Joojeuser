@@ -214,5 +214,11 @@
     "key": "ZZ",
     "expirydate": "23-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ec664c2f0f4437df",
+    "key": "W",
+    "expirydate": "23-07-2027",
+    "Allowoffline": true
   }
 ]
