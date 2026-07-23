@@ -202,5 +202,11 @@
     "key": "E",
     "expirydate": "23-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "282f2d9fd953aa2b",
+    "key": "RT",
+    "expirydate": "23-07-2027",
+    "Allowoffline": true
   }
 ]
