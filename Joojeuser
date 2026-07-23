@@ -208,5 +208,11 @@
     "key": "RT",
     "expirydate": "23-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c94091f3e1751751",
+    "key": "SL",
+    "expirydate": "23-07-2027",
+    "Allowoffline": true
   }
 ]
