@@ -220,5 +220,11 @@
     "key": "W",
     "expirydate": "23-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ac4d7b4ab28f17ca",
+    "key": "MM",
+    "expirydate": "23-07-2027",
+    "Allowoffline": true
   }
 ]
