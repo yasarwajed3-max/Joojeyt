@@ -238,5 +238,11 @@
     "key": "WWE",
     "expirydate": "24-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4a6562b1fc613a98",
+    "key": "W",
+    "expirydate": "24-07-2027",
+    "Allowoffline": true
   }
 ]
