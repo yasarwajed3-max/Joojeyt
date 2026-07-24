@@ -238,5 +238,11 @@
     "key": "ERT",
     "expirydate": "24-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8b155d1d5f30c415",
+    "key": "WWE",
+    "expirydate": "24-07-2027",
+    "Allowoffline": true
   }
 ]
