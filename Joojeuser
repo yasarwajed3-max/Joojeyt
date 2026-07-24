@@ -256,5 +256,11 @@
     "key": "ER",
     "expirydate": "24-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c139ead82a9852cb",
+    "key": "BM",
+    "expirydate": "24-07-2027",
+    "Allowoffline": true
   }
 ]
