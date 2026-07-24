@@ -262,5 +262,11 @@
     "key": "BM",
     "expirydate": "24-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5a49fe6365a5a1ff",
+    "key": "DE",
+    "expirydate": "24-07-2027",
+    "Allowoffline": true
   }
 ]
