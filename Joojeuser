@@ -244,5 +244,11 @@
     "key": "W",
     "expirydate": "24-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7691bfed4970927e",
+    "key": "CB",
+    "expirydate": "24-07-2027",
+    "Allowoffline": true
   }
 ]
