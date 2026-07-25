@@ -262,5 +262,11 @@
     "key": "DE",
     "expirydate": "24-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4edffb76c1a88c37",
+    "key": "ZZ",
+    "expirydate": "25-07-2027",
+    "Allowoffline": true
   }
 ]
