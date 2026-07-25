@@ -274,5 +274,11 @@
     "key": "TY",
     "expirydate": "25-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d00c5fffe86a8487",
+    "key": "ERP",
+    "expirydate": "25-07-2027",
+    "Allowoffline": true
   }
 ]
