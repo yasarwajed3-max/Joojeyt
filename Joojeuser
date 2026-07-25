@@ -280,5 +280,11 @@
     "key": "ERP",
     "expirydate": "25-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "dadb3316217af859",
+    "key": "WQ",
+    "expirydate": "25-07-2027",
+    "Allowoffline": true
   }
 ]
