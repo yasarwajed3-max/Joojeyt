@@ -268,5 +268,11 @@
     "key": "ZZ",
     "expirydate": "25-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "27e784c40cddeaa9",
+    "key": "TY",
+    "expirydate": "25-07-2027",
+    "Allowoffline": true
   }
 ]
