@@ -286,5 +286,11 @@
     "key": "WQ",
     "expirydate": "25-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8cdd194b8e392de2",
+    "key": "QM",
+    "expirydate": "27-07-2027",
+    "Allowoffline": true
   }
 ]
