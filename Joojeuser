@@ -292,5 +292,11 @@
     "key": "QM",
     "expirydate": "27-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "08a6be3e8dd558e2",
+    "key": "POS",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
