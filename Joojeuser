@@ -304,5 +304,11 @@
     "key": "VB",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "dae713344debac06",
+    "key": "ZPO",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
