@@ -298,5 +298,11 @@
     "key": "POS",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "198222d8b7c7e5ab",
+    "key": "VB",
+    "expirydate": "29-07-2027",
+    "Allowoffline": true
   }
 ]
