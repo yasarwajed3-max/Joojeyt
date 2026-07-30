@@ -316,5 +316,11 @@
     "key": "RTB",
     "expirydate": "30-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5fcb972194f9f620",
+    "key": "RTU",
+    "expirydate": "30-07-2027",
+    "Allowoffline": true
   }
 ]
