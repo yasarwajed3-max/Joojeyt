@@ -310,5 +310,11 @@
     "key": "ZPO",
     "expirydate": "29-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2522853386af91cc",
+    "key": "RTB",
+    "expirydate": "30-07-2027",
+    "Allowoffline": true
   }
 ]
