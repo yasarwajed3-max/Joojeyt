@@ -322,5 +322,11 @@
     "key": "RTU",
     "expirydate": "30-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "758a8fcc5912c9e3",
+    "key": "TGB",
+    "expirydate": "31-07-2027",
+    "Allowoffline": true
   }
 ]
