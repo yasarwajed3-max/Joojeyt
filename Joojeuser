@@ -334,5 +334,11 @@
     "key": "TKLP",
     "expirydate": "31-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a2df4e0d9d9de3e3",
+    "key": "RIO",
+    "expirydate": "31-07-2027",
+    "Allowoffline": true
   }
 ]
