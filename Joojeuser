@@ -328,5 +328,11 @@
     "key": "TGB",
     "expirydate": "31-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "bdf750bf5ddb78e3",
+    "key": "TKLP",
+    "expirydate": "31-07-2027",
+    "Allowoffline": true
   }
 ]
