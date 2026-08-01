@@ -346,5 +346,11 @@
     "key": "TZ",
     "expirydate": "01-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "27f2da820102666d",
+    "key": "ZM",
+    "expirydate": "01-08-2027",
+    "Allowoffline": true
   }
 ]
