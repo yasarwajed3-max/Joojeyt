@@ -352,11 +352,5 @@
     "key": "ZM",
     "expirydate": "01-08-2027",
     "Allowoffline": true
-  },
-  {
-    "device_id": "fa7290612323a008",
-    "key": "AFG",
-    "expirydate": "01-08-2027",
-    "Allowoffline": true
   }
 ]
