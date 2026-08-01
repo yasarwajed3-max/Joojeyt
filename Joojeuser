@@ -340,5 +340,11 @@
     "key": "RIO",
     "expirydate": "31-07-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0d2dbfea138ada7a",
+    "key": "TZ",
+    "expirydate": "01-08-2027",
+    "Allowoffline": true
   }
 ]
