@@ -358,5 +358,11 @@
     "key": "AFG",
     "expirydate": "01-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "671862cbcc2de432",
+    "key": "EZE",
+    "expirydate": "02-08-2027",
+    "Allowoffline": true
   }
 ]
