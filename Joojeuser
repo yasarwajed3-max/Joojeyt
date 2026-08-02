@@ -376,5 +376,11 @@
     "key": "LKJ",
     "expirydate": "02-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4a6b2c7da9b7740d",
+    "key": "D",
+    "expirydate": "02-08-2027",
+    "Allowoffline": true
   }
 ]
