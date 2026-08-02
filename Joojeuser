@@ -370,5 +370,11 @@
     "key": "TBP",
     "expirydate": "02-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "68419059c4e41f61",
+    "key": "LKJ",
+    "expirydate": "02-08-2027",
+    "Allowoffline": true
   }
 ]
