@@ -388,5 +388,11 @@
     "key": "O",
     "expirydate": "02-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2540a3c48e7fec0d",
+    "key": "JKO",
+    "expirydate": "03-08-2027",
+    "Allowoffline": true
   }
 ]
