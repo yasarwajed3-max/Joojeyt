@@ -406,5 +406,11 @@
     "key": "TR",
     "expirydate": "03-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "51d1ec13af5551ef",
+    "key": "PP",
+    "expirydate": "03-08-2027",
+    "Allowoffline": true
   }
 ]
