@@ -406,5 +406,11 @@
     "key": "PP8",
     "expirydate": "03-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3c05b30e40a74987",
+    "key": "EM8",
+    "expirydate": "05-08-2027",
+    "Allowoffline": true
   }
 ]
