@@ -418,5 +418,11 @@
     "key": "RBT",
     "expirydate": "06-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "70cf32e9b9bcbfc6",
+    "key": "DEZ",
+    "expirydate": "06-08-2027",
+    "Allowoffline": true
   }
 ]
