@@ -412,5 +412,11 @@
     "key": "EM8",
     "expirydate": "05-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "10e5f7251327d1ab",
+    "key": "RBT",
+    "expirydate": "06-08-2027",
+    "Allowoffline": true
   }
 ]
