@@ -430,5 +430,11 @@
     "key": "M2",
     "expirydate": "07-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3c0d39f3348dee2d",
+    "key": "RRRR",
+    "expirydate": "07-08-2027",
+    "Allowoffline": true
   }
 ]
