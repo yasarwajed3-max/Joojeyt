@@ -424,5 +424,11 @@
     "key": "DEZ",
     "expirydate": "06-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4a6b2c7da9b7740d",
+    "key": "M2",
+    "expirydate": "07-08-2027",
+    "Allowoffline": true
   }
 ]
