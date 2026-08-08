@@ -436,5 +436,11 @@
     "key": "RRRR",
     "expirydate": "07-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ecfc2c8bd08f4fee",
+    "key": "S5",
+    "expirydate": "08-08-2027",
+    "Allowoffline": true
   }
 ]
