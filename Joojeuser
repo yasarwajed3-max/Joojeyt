@@ -442,5 +442,11 @@
     "key": "S5",
     "expirydate": "08-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3574e09bec22ab01",
+    "key": "G2",
+    "expirydate": "08-08-2027",
+    "Allowoffline": true
   }
 ]
