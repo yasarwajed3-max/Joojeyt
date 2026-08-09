@@ -448,5 +448,11 @@
     "key": "G2",
     "expirydate": "08-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fa4a6c914eb73965",
+    "key": "D1",
+    "expirydate": "09-08-2027",
+    "Allowoffline": true
   }
 ]
