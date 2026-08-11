@@ -460,5 +460,11 @@
     "key": "KFC",
     "expirydate": "10-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d7582372aa597fe0",
+    "key": "B7",
+    "expirydate": "11-08-2027",
+    "Allowoffline": true
   }
 ]
