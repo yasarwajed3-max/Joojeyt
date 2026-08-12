@@ -472,5 +472,11 @@
     "key": "D5",
     "expirydate": "11-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5585b607c4d67e66",
+    "key": "PQ4",
+    "expirydate": "12-08-2027",
+    "Allowoffline": true
   }
 ]
