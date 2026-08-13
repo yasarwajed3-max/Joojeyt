@@ -484,5 +484,11 @@
     "key": "R8",
     "expirydate": "13-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8e1f4f55d4fee321",
+    "key": "T1",
+    "expirydate": "13-08-2027",
+    "Allowoffline": true
   }
 ]
