@@ -490,5 +490,11 @@
     "key": "T1",
     "expirydate": "13-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9d2f0df819d86888",
+    "key": "WV7",
+    "expirydate": "13-08-2027",
+    "Allowoffline": true
   }
 ]
