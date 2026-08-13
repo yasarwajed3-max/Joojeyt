@@ -478,5 +478,11 @@
     "key": "PQ4",
     "expirydate": "12-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c1e2e3e5c070ec1a",
+    "key": "R8",
+    "expirydate": "13-08-2027",
+    "Allowoffline": true
   }
 ]
