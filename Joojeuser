@@ -496,5 +496,11 @@
     "key": "WV7",
     "expirydate": "13-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "DEV-GPQDXVDB",
+    "key": "F9VsgEE89uRwDv2E",
+    "expirydate": "16-08-2026",
+    "Allowoffline": true
   }
 ]
