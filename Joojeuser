@@ -502,5 +502,11 @@
     "key": "F9VsgEE89uRwDv2E",
     "expirydate": "16-08-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a2d82b101290d261",
+    "key": "Q7",
+    "expirydate": "24-08-2027",
+    "Allowoffline": true
   }
 ]
