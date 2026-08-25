@@ -514,5 +514,11 @@
     "key": "Z77",
     "expirydate": "25-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "89647f8e15178e87",
+    "key": "ZF4",
+    "expirydate": "26-08-2027",
+    "Allowoffline": true
   }
 ]
