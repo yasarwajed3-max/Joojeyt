@@ -508,5 +508,11 @@
     "key": "Q7",
     "expirydate": "24-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "638240c1bd9815ab",
+    "key": "Z77",
+    "expirydate": "25-08-2027",
+    "Allowoffline": true
   }
 ]
