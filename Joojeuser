@@ -538,5 +538,11 @@
     "key": "F41",
     "expirydate": "26-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "95477527017d853d",
+    "key": "S0",
+    "expirydate": "27-08-2027",
+    "Allowoffline": true
   }
 ]
