@@ -532,5 +532,11 @@
     "key": "C17",
     "expirydate": "26-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b42efe20d4141d7c",
+    "key": "F2",
+    "expirydate": "26-08-2027",
+    "Allowoffline": true
   }
 ]
