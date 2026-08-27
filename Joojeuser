@@ -544,5 +544,11 @@
     "key": "S0",
     "expirydate": "27-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6d48453e4a8d61f0",
+    "key": "ESR1",
+    "expirydate": "27-08-2027",
+    "Allowoffline": true
   }
 ]
