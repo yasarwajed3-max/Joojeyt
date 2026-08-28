@@ -550,5 +550,11 @@
     "key": "ESR1",
     "expirydate": "27-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c6ee693d384476a8",
+    "key": "D20",
+    "expirydate": "28-08-2027",
+    "Allowoffline": true
   }
 ]
