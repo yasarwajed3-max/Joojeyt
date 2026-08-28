@@ -556,5 +556,11 @@
     "key": "D20",
     "expirydate": "28-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "80e93749617718c2",
+    "key": "S80",
+    "expirydate": "28-08-2027",
+    "Allowoffline": true
   }
 ]
