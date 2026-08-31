@@ -562,5 +562,11 @@
     "key": "S80",
     "expirydate": "28-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c4efe6d55adda392",
+    "key": "Q77",
+    "expirydate": "01-09-2027",
+    "Allowoffline": true
   }
 ]
