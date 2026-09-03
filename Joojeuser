@@ -574,5 +574,11 @@
     "key": "LOOXMAXXXX",
     "expirydate": "01-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a5a9b6176080841d",
+    "key": "DB4",
+    "expirydate": "03-09-2027",
+    "Allowoffline": true
   }
 ]
