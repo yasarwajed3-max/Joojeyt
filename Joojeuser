@@ -592,5 +592,11 @@
     "key": "POR2",
     "expirydate": "03-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ed1fe2b0dad8fbe5",
+    "key": "K8",
+    "expirydate": "03-09-2027",
+    "Allowoffline": true
   }
 ]
