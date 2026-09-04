@@ -598,5 +598,11 @@
     "key": "K8",
     "expirydate": "03-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "48e853b93feda454",
+    "key": "BBBB",
+    "expirydate": "04-09-2027",
+    "Allowoffline": true
   }
 ]
