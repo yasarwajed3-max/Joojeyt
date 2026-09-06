@@ -604,5 +604,11 @@
     "key": "BBBB",
     "expirydate": "04-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6dbdaab05d11d584",
+    "key": "DDDDD11",
+    "expirydate": "06-09-2027",
+    "Allowoffline": true
   }
 ]
