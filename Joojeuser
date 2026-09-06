@@ -610,11 +610,5 @@
     "key": "DDDDD11",
     "expirydate": "06-09-2027",
     "Allowoffline": true
-  },
-  {
-    "device_id": "2b7a667af08ad636",
-    "key": "ZZPOI8",
-    "expirydate": "06-09-2027",
-    "Allowoffline": true
   }
 ]
