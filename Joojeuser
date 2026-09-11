@@ -622,5 +622,11 @@
     "key": "DZ2",
     "expirydate": "10-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "db3127b62a5ab024",
+    "key": "WAO1",
+    "expirydate": "11-09-2027",
+    "Allowoffline": true
   }
 ]
