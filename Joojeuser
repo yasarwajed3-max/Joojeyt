@@ -628,5 +628,11 @@
     "key": "WAO1",
     "expirydate": "11-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d994c0e64f106960",
+    "key": "DER7",
+    "expirydate": "12-09-2027",
+    "Allowoffline": true
   }
 ]
