@@ -634,5 +634,11 @@
     "key": "DER7",
     "expirydate": "12-09-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5cc6038a08f75752",
+    "key": "KFC5",
+    "expirydate": "12-09-2027",
+    "Allowoffline": true
   }
 ]
